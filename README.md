@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Rid 👋</h1>
+<h1 align="center">Hey there, I'm Ricardo Daniel</h1>
 
 <p align="center">
-  <em>Passionate developer · Lifelong learner · Open-source enthusiast</em>
+  <em> Always giving my best  · Development in progress · </em>
 </p>
 
 <p align="center">
@@ -12,13 +12,11 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- 🔭 I'm currently working on exciting projects that blend **creativity and code**
-- 🌱 I'm always learning — right now diving deeper into **cloud architectures & AI/ML**
-- 👯 I'm looking to collaborate on **open-source projects** and **side projects**
-- 💬 Ask me about **web development, software design, or anything tech**
-- ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
+- I'm currently studiyng **Computer Science** at Universidade Estadual da Paraíba - 7/10
+- I'm always learning — right now diving deeper into **Backend Advanced Concepts**
+- I'm an intern at **Energisa Paraíba S.A**
 
 ---
 
@@ -40,20 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridkhj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridkhj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridkhj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridkhj&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -61,13 +46,16 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/ridkhj">
+  <a href="https://github.com/ridkhj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ricardo-daniel-6366331b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"The best way to predict the future is to invent it." — Alan Kay</em>
+  <em>"A dor de aprender é necessária" — Fábio Akita</em>
 </p>
