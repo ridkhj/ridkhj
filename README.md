@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Ricardo Daniel</h1>
+<h1 align="center">Hey there</h1>
 
 <p align="center">
   <em> excellence in actions </em>
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://github.com/ridkhj" target="_blank">
