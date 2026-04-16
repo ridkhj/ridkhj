@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ricardo Daniel</h1>
 
 <p align="center">
-  <em> Always giving my best  · Development in progress · </em>
+  <em> excellence in actions </em>
 </p>
 
 <p align="center">
